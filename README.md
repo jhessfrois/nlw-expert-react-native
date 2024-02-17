@@ -39,7 +39,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Nesse projeto foi desenvolvido uma aplicação de delivery de fast food compatível com Android e IOS que usa uma API para encaminhar os pedidos feitos pelo usuário diretamente para o whatsapp do estabelecimento.
 
 ## **📱 Deploy**
-[🔗 Clique aqui para acessar](https://nlw-expert-react-csuxduly6-jhessfrois.vercel.app/)
+[🔗 Clique aqui para acessar a aplicação em formato .apk](https://expo.dev/artifacts/eas/6tsr2wwfbvka5igsjG4NzB.apk)
 
 ## **🤍 Contato**
 
