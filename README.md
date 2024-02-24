@@ -24,6 +24,8 @@ Aplicação desenvolvida no NLW Expert da Rocketseat na trilha React Native.
   <img alt="Preview do projeto desenvolvido." src="https://i.imgur.com/ocjsBCG.jpeg" width="80%">
 </p>
 
+> Projeto desenvolvido entre os dias 13/02 e 16/02 de 2024
+
 ## **🚀 Tecnologias**
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
